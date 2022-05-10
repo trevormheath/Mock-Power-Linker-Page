@@ -1,0 +1,2496 @@
+{
+    "persons": [
+        {
+            "id": "KWC5-1YW",
+            "sortKey": "0000000004",
+            "evidence": [
+                {
+                    "id": "137863969-836254",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/137863969/personas/137863969-836254",
+                    "resourceId": "137863969-836254"
+                },
+                {
+                    "id": "137863627-41837385",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/137863627/personas/137863627-41837385",
+                    "resourceId": "137863627-41837385"
+                },
+                {
+                    "id": "2014107-836254",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/2014107/personas/2014107-836254",
+                    "resourceId": "2014107-836254"
+                },
+                {
+                    "id": "24661582-9061450",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/24661582/personas/24661582-9061450",
+                    "resourceId": "24661582-9061450"
+                }
+            ],
+            "living": false,
+            "gender": {
+                "id": "2cfdb7b2-1ede-4287-814b-3280139faea7",
+                "attribution": {
+                    "contributor": {
+                        "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                        "resourceId": "MMWG-V3Y"
+                    },
+                    "modified": 1338049349107
+                },
+                "type": "http://gedcomx.org/Female"
+            },
+            "links": {
+                "person": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC5-1YW?flag=fsh"
+                }
+            },
+            "sources": [
+                {
+                    "id": "a4cf04bd-65da-492c-9239-523dd4fe7ae5",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SLFK-TQK",
+                    "descriptionId": "SLFK-TQK"
+                },
+                {
+                    "id": "cb85c120-db41-4ff3-8839-8d191032fd15",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJHX-PPG",
+                    "descriptionId": "SJHX-PPG"
+                },
+                {
+                    "id": "f8217bdf-29da-4fc5-bd2e-822937a05425",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJ3S-FKW",
+                    "descriptionId": "SJ3S-FKW"
+                },
+                {
+                    "id": "ba89e6c5-2804-49bd-8edb-9eb5a72ca221",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJS1-K92",
+                    "descriptionId": "SJS1-K92"
+                },
+                {
+                    "id": "4cc94a4a-4fb4-4517-8925-ece832a67843",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SW1M-5ND",
+                    "descriptionId": "SW1M-5ND"
+                },
+                {
+                    "id": "4099e791-e765-4fbb-b5a9-d3891670971c",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/9FGK-WVN",
+                    "descriptionId": "9FGK-WVN"
+                },
+                {
+                    "id": "c9a04654-8646-463f-ac0b-7c10bce4ff9b",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/9XXB-99Z",
+                    "descriptionId": "9XXB-99Z"
+                },
+                {
+                    "id": "84f4798e-f502-44d8-8a60-ebcdf781f885",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/9DSY-DF4",
+                    "descriptionId": "9DSY-DF4"
+                },
+                {
+                    "id": "7db2dc42-2da1-46c3-a542-bcd4e492728b",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/MSVH-P9W",
+                    "descriptionId": "MSVH-P9W"
+                },
+                {
+                    "id": "af3de6a2-e9aa-49c4-8186-6626633631ee",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/MSVH-GG5",
+                    "descriptionId": "MSVH-GG5"
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://familysearch.org/ark:/61903/4:1:KWC5-1YW"
+                ]
+            },
+            "names": [
+                {
+                    "id": "991a0a6e-291e-4f21-a0db-159dd32b100f",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MM7T-6J3",
+                            "resourceId": "MM7T-6J3"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": true,
+                    "nameForms": [
+                        {
+                            "fullText": "Fredericka Johane Wilhelminnie Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Fredericka Johane Wilhelminnie"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MM91-V3G",
+                            "resourceId": "MM91-V3G"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Frederike Johane Wilelmina Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Frederike Johane Wilelmina"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "970ee2de-e481-4fa0-a7c8-bf4b3b3e24b7",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Friedericke Johanne Wilheliminnie Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Friedericke Johanne Wilheliminnie"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "c9075aec-0093-4635-8218-b4b05b7e90a8",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Friedericke Johanne Wilhelmina Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Friedericke Johanne Wilhelmina"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "987fae84-c453-47f5-b891-4de724e7968e",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Friederike Johane Wilhelmina Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Friederike Johane Wilhelmina"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "cd27bc35-b989-45d2-b2d6-33803e7b3308",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Friederike Johane Wilhelmina Stilke Heath",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Friederike Johane Wilhelmina"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke Heath"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ce3dd1a8-8f1d-47bd-9722-5b991f20e53b",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMMM-MM8",
+                            "resourceId": "MMMM-MM8"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Friederike Johane Wilhelmina Stilke Heath",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Friederike Johane Wilhelmina Stilke"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Heath"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "d40fba0a-8671-4c5c-a691-056b3adfb782",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Friederike Johanne Wilhelmina",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Friederike Johanne Wilhelmina"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "225f7404-0ba1-488d-add3-c4762bd3d2d2",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Friederike Johanne Wilhelmina Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Friederike Johanne Wilhelmina"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2f323204-05c3-47cf-a7bc-1e7fa02a5734",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Frederick Stalke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Frederick"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stalke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ad93efd0-6bfd-481f-a616-fe1139557d9d",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Fredericka Johanie Wilhelminnie Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Fredericka Johanie Wilhelminnie"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "6ae40f0c-3df3-4a2d-bc3b-04274b2cbc46",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Fredericka Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Fredericka"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "60c61a81-df2b-47ac-9a4b-1eeede9fd734",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMMM-MM8",
+                            "resourceId": "MMMM-MM8"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Fredericke Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Fredericke"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ff00b677-3217-4878-b0a5-dcd9d356f5a9",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Fredricka Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Fredricka"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4de809ce-641f-462f-b302-9fe4717e0e33",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMMM-MM8",
+                            "resourceId": "MMMM-MM8"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Fredricka Stilkes",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Fredricka"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilkes"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "73099637-dcf3-427a-83b7-465ccec21f15",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Fredricke Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Fredricke"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "8468712c-700b-4a7a-8a55-2de918394841",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMMM-MM8",
+                            "resourceId": "MMMM-MM8"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Fredrieka Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Fredrieka"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1bfaea36-e7af-47bc-96a4-637a818a5d4a",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Friedericke Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Friedericke"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "e79f5b27-3e97-4fd8-b06b-b330a602b703",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Friederike Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie Friederike"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "859c8390-e6d8-4b50-aa35-669a064f314d",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Minnie Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Minnie"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "84cc3ccd-16b5-4a73-8f01-147859a58c7d",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                            "resourceId": "MMWG-V3Y"
+                        },
+                        "modified": 1338049349107
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Wilhelmina Frederika Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Wilhelmina Frederika"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "d5a5c875-aa8c-4ef1-8013-ec6184313af4",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMMM-MMD",
+                            "resourceId": "MMMM-MMD"
+                        },
+                        "modified": 1389905170850
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "lang": "x-Latn",
+                            "fullText": "Fredericka Johane Wilhelminnie Stilke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Fredericka Johane Wilhelminnie"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stilke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "118cc3ca-b60c-40f8-984d-6f04c4d98c83",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1580707645391,
+                        "changeMessage": "Source Citation\nYear: 1870; Census Place: Buffalo Ward 5, Erie, New York; Roll: M593_933; Page: 689B; Family History Library Film: 552432\n\nSource Information\nAncestry.com. 1870 United States Federal Census [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2009. Images reproduced by FamilySearch."
+                    },
+                    "type": "http://gedcomx.org/AlsoKnownAs",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "lang": "en",
+                            "fullText": "Fredrick Stielke",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Fredrick"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Stielke"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "facts": [
+                {
+                    "id": "248eaba5-34ae-4182-9874-bfcc07166241",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMXW-CR6",
+                            "resourceId": "MMXW-CR6"
+                        },
+                        "modified": 1549311477883
+                    },
+                    "type": "http://gedcomx.org/Birth",
+                    "date": {
+                        "original": "28 November 1859",
+                        "formal": "+1859-11-28",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "28 November 1859"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Berlin, Brandenburg, Germany",
+                        "description": "#3453397",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Berlin, Brandenburg, Germany"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "5068b7e2-5457-4d4e-aae9-74b12701b844",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MM6K-17X",
+                            "resourceId": "MM6K-17X"
+                        },
+                        "modified": 1438455078198
+                    },
+                    "type": "data:,Immigration",
+                    "date": {
+                        "original": "1860",
+                        "formal": "+1860",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1860"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "a6dfb6fe-5aeb-499b-ad90-3d1bd38b4298",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1580717772980,
+                        "changeMessage": "Source Citation\nStaatsarchiv Hamburg; Hamburg, Deutschland; Hamburger Passagierlisten; Volume: 373-7 I, VIII A 1 Band 023 B; Page: 1046; Microfilm No.: K_1715\n\nSource Information\nStaatsarchiv Hamburg. Hamburg Passenger Lists, 1850-1934 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2008.\n\nOriginal data: Staatsarchiv Hamburg, Bestand: 373-7 I, VIII (Auswanderungsamt I). Mikrofilmrollen K 1701 - K 2008, S 17363 - S 17383, 13116 - 13183.\n\n\nHamburg State Archives\nDescription\nThis database contains passenger lists of ships that departed from the port of Hamburg, Germany from 1850-1934 (with a gap from 1915-1919 due to World War I). The database includes images of the passenger lists digitized from microfilm in partnership with the Hamburg State Archive, available here for the first time online. It also includes a complete index for the years 1850-1914 (up to the start of World War I) and 1920-1934. Learn more..."
+                    },
+                    "type": "http://gedcomx.org/Immigration",
+                    "date": {
+                        "original": "15 October 1869",
+                        "formal": "+1869-10-15",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "15 October 1869"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Hamburg, Germany",
+                        "description": "#2035",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Hamburg, Germany"
+                            }
+                        ]
+                    },
+                    "value": "Ship called Friedburg"
+                },
+                {
+                    "id": "d4aee986-d9a4-41ba-a54e-043232670e35",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1580718584963,
+                        "changeMessage": "Source Citation\nYear: 1869; Arrival: New York, New York; Microfilm Serial: M237, 1820-1897; Microfilm Roll: Roll 322; Line: 25; List Number: 1376\n\nSource Information\nAncestry.com. New York, Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2010."
+                    },
+                    "type": "http://gedcomx.org/Immigration",
+                    "date": {
+                        "original": "13 December 1869",
+                        "formal": "+1869-12-13",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "13 December 1869"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Castle Garden or Ellis Island",
+                        "description": "#4574520",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Ellis Island, New York City, New York, United States"
+                            }
+                        ]
+                    },
+                    "value": "Ship called Friedburg"
+                },
+                {
+                    "id": "953f585a-857f-4088-9431-4cdd61bdcbca",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMXD-6MV",
+                            "resourceId": "MMXD-6MV"
+                        },
+                        "modified": 1408650412762
+                    },
+                    "type": "data:,Immigration",
+                    "date": {
+                        "original": "1870",
+                        "formal": "+1870",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1870"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "474e6c35-877b-4c0a-8a4b-79b2e115408a",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1580709195686,
+                        "changeMessage": "Document names, birth country and birth year estimate, 1870 residence of self, parents and siblings."
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1870",
+                        "formal": "+1870",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1870"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Buffalo, Erie, New York, United States",
+                        "description": "#4608724",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Buffalo, Erie, New York, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "55b560c0-a6a5-40ea-a8fb-f71e66765c18",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1580279992250,
+                        "changeMessage": "Document names, birth year estimates, birth countries and 1880 residence of self, parents and siblings."
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1880",
+                        "formal": "+1880",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1880"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Burlington, Becker, Minnesota, United States",
+                        "description": "#4343699",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Burlington Township, Becker, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "477c5bec-0a8a-455f-8435-e8c80bfeb280",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMXD-6MV",
+                            "resourceId": "MMXD-6MV"
+                        },
+                        "modified": 1408650285161
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1895",
+                        "formal": "+1895",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1895"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Brainerd city, Ward 03, Crow Wing, Minnesota",
+                        "description": "#4343809",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Brainerd, Crow Wing, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "7c2e947d-7e73-467e-917e-dfed32aceb71",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MM6K-17X",
+                            "resourceId": "MM6K-17X"
+                        },
+                        "modified": 1438455077737
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1900",
+                        "formal": "+1900",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1900"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "ED 57 Brainerd city Ward 3, Crow Wing, Minnesota, United States",
+                        "description": "#4343809",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Brainerd, Crow Wing, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "6e88ac37-7c26-4ad0-b62b-35022959b432",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMXD-6MV",
+                            "resourceId": "MMXD-6MV"
+                        },
+                        "modified": 1408650412762
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1910",
+                        "formal": "+1910",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1910"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Getchell, , Washington",
+                        "description": "#5212708",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Getchell, Snohomish, Washington, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "e3157663-21fb-4571-a340-3af655ac5d15",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMFQ-7YZ",
+                            "resourceId": "MMFQ-7YZ"
+                        },
+                        "modified": 1548348519498,
+                        "changeMessage": "Source:In the Washington,Death Records,1883-1960"
+                    },
+                    "type": "http://gedcomx.org/Death",
+                    "date": {
+                        "original": "5 February 1914",
+                        "formal": "+1914-02-05",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "5 February 1914"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Hartford, Snohomish, Washington, United States",
+                        "description": "#5199060",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Hartford, Snohomish, Washington, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "75223694-d788-41a5-b673-6f001dc24c5c",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MM68-5KV",
+                            "resourceId": "MM68-5KV"
+                        },
+                        "modified": 1546763520399,
+                        "changeMessage": "Standardized the record."
+                    },
+                    "type": "http://gedcomx.org/Burial",
+                    "date": {
+                        "original": "9 February 1914",
+                        "formal": "+1914-02-09",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "9 February 1914"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Granite Falls, Snohomish, Washington, United States",
+                        "description": "#5305066",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Granite Falls, Snohomish, Washington, United States"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "display": {
+                "name": "Fredericka Johane Wilhelminnie Stilke",
+                "gender": "Female",
+                "lifespan": "1859-1914",
+                "birthDate": "28 November 1859",
+                "birthPlace": "Berlin, Brandenburg, Germany",
+                "deathDate": "5 February 1914",
+                "deathPlace": "Hartford, Snohomish, Washington, United States",
+                "familiesAsParent": []
+            },
+            "personInfo": [
+                {
+                    "readOnly": false,
+                    "privateSpaceRestricted": false
+                }
+            ]
+        },
+        {
+            "id": "KNYR-3XQ",
+            "sortKey": "0000000006",
+            "evidence": [
+                {
+                    "id": "137863969-836238",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/137863969/personas/137863969-836238",
+                    "resourceId": "137863969-836238"
+                },
+                {
+                    "id": "137863969-41837564",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/137863969/personas/137863969-41837564",
+                    "resourceId": "137863969-41837564"
+                },
+                {
+                    "id": "57291356-1196232",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/57291356/personas/57291356-1196232",
+                    "resourceId": "57291356-1196232"
+                },
+                {
+                    "id": "2014107-836238",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/2014107/personas/2014107-836238",
+                    "resourceId": "2014107-836238"
+                },
+                {
+                    "id": "23220740-8595358",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/23220740/personas/23220740-8595358",
+                    "resourceId": "23220740-8595358"
+                },
+                {
+                    "id": "23214080-8595358",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/23214080/personas/23214080-8595358",
+                    "resourceId": "23214080-8595358"
+                },
+                {
+                    "id": "2905722-1196232",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/2905722/personas/2905722-1196232",
+                    "resourceId": "2905722-1196232"
+                },
+                {
+                    "id": "23222298-8595358",
+                    "resource": "https://www.familysearch.org/platform/memories/memories/23222298/personas/23222298-8595358",
+                    "resourceId": "23222298-8595358"
+                }
+            ],
+            "living": false,
+            "gender": {
+                "id": "baa2673f-4a42-48d2-90ad-74695235f106",
+                "attribution": {
+                    "contributor": {
+                        "resource": "https://www.familysearch.org/platform/users/agents/MMWG-V3Y",
+                        "resourceId": "MMWG-V3Y"
+                    },
+                    "modified": 1338138400247
+                },
+                "type": "http://gedcomx.org/Male"
+            },
+            "links": {
+                "person": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KNYR-3XQ?flag=fsh"
+                }
+            },
+            "sources": [
+                {
+                    "id": "87ecdf4c-8f78-46cc-a812-aa78b63b73bc",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SLP2-2JP",
+                    "descriptionId": "SLP2-2JP"
+                },
+                {
+                    "id": "3c1896bf-1e75-48ae-b7f4-4fe56f187317",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SLP2-VQN",
+                    "descriptionId": "SLP2-VQN"
+                },
+                {
+                    "id": "52cd0762-30d6-4beb-bf43-35b793ae6a14",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SLFK-RB5",
+                    "descriptionId": "SLFK-RB5"
+                },
+                {
+                    "id": "52f8db19-0b2b-41ea-8bc3-d5d26dfecdf1",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJL5-GHC",
+                    "descriptionId": "SJL5-GHC"
+                },
+                {
+                    "id": "d37a51e5-f85e-4985-a11e-fe41d2e61d57",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJL5-JTF",
+                    "descriptionId": "SJL5-JTF"
+                },
+                {
+                    "id": "ec4990fc-4560-4352-b70f-31220e63f312",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJL5-DL1",
+                    "descriptionId": "SJL5-DL1"
+                },
+                {
+                    "id": "963ced67-a20a-4d9c-8558-2eb7a4dd04a2",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJL5-MXG",
+                    "descriptionId": "SJL5-MXG"
+                },
+                {
+                    "id": "39b1cad9-5c0b-4871-b694-6bcdb299373c",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SJLP-T1R",
+                    "descriptionId": "SJLP-T1R"
+                },
+                {
+                    "id": "224cc20b-17e1-4da5-b454-512dec212c72",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/SW1M-5ZZ",
+                    "descriptionId": "SW1M-5ZZ"
+                },
+                {
+                    "id": "a8f3ce97-d234-42ee-a12e-2fe3144506c3",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/9FGK-WXZ",
+                    "descriptionId": "9FGK-WXZ"
+                },
+                {
+                    "id": "22fd0ed5-d24f-43eb-aca4-6def8968be67",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/9XXB-MYQ",
+                    "descriptionId": "9XXB-MYQ"
+                },
+                {
+                    "id": "e7c810ac-3a99-4d5e-a7d6-704a94bc498b",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/9DSY-DCY",
+                    "descriptionId": "9DSY-DCY"
+                },
+                {
+                    "id": "a51447b3-9eb1-414b-afb9-c7c6751842c1",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/MSVH-PM2",
+                    "descriptionId": "MSVH-PM2"
+                },
+                {
+                    "id": "57b3ee41-a9b8-4b79-bc74-5b023363e828",
+                    "description": "https://www.familysearch.org/platform/sources/descriptions/MSVH-G2Z",
+                    "descriptionId": "MSVH-G2Z"
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://familysearch.org/ark:/61903/4:1:KNYR-3XQ"
+                ]
+            },
+            "names": [
+                {
+                    "id": "ddfa08c7-905a-4cbf-b994-9d4514d2af50",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMDB-395",
+                            "resourceId": "MMDB-395"
+                        },
+                        "modified": 1269825503922
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": true,
+                    "nameForms": [
+                        {
+                            "fullText": "Lewis Edwin Heath",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Lewis Edwin"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Heath"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMQB-NCM",
+                            "resourceId": "MMQB-NCM"
+                        },
+                        "modified": 1338138400247
+                    },
+                    "type": "http://gedcomx.org/BirthName",
+                    "preferred": false,
+                    "nameForms": [
+                        {
+                            "fullText": "Louis Edwin Heath",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Louis Edwin"
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Heath"
+                                }
+                            ],
+                            "nameFormInfo": [
+                                {
+                                    "order": "http://familysearch.org/v1/Eurotypic"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "facts": [
+                {
+                    "id": "7514c150-7d9d-4859-b334-13620921d004",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMXF-YD2",
+                            "resourceId": "MMXF-YD2"
+                        },
+                        "modified": 1549248505662
+                    },
+                    "type": "http://gedcomx.org/Birth",
+                    "date": {
+                        "original": "11 September 1855",
+                        "formal": "+1855-09-11",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "11 September 1855"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Princeton, Mille Lacs, Minnesota, United States",
+                        "description": "#4346354",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Princeton, Mille Lacs, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "f3986f59-9cb0-4792-a482-80cc5ebfd0f8",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1581830849544,
+                        "changeMessage": "Document names, birth year estimate, birth place and 1857 residence of self and parents."
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1857",
+                        "formal": "+1857",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1857"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Township 36, Range 26, Benton, Minnesota"
+                    }
+                },
+                {
+                    "id": "d3bcaa65-b65b-4e77-8229-e97250dcf1c9",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1581831247220,
+                        "changeMessage": "Document names, birth year estimates, birth places and 1860 residence of self, parents and brother."
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1860",
+                        "formal": "+1860",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1860"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Big Lake, Sherburne, Minnesota, United States",
+                        "description": "#4343794",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Big Lake, Sherburne, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "099e31f0-9795-41f7-ba44-32088b414c98",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1581829202273,
+                        "changeMessage": "Document names and 1865 residence of self, mother and siblings."
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1865",
+                        "formal": "+1865",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1865"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Princeton, Meeker, Minnesota, United States",
+                        "description": "#392861",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Meeker, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "a3ca8aea-4b58-4dbf-aecf-8fd8437e7791",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMXD-6MV",
+                            "resourceId": "MMXD-6MV"
+                        },
+                        "modified": 1408650375420
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1895",
+                        "formal": "+1895",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1895"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Brainerd city, Ward 03, Crow Wing, Minnesota",
+                        "description": "#4343809",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Brainerd, Crow Wing, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2bfab2b9-5551-49c8-bfb6-09753ac1e2f8",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MM6K-17X",
+                            "resourceId": "MM6K-17X"
+                        },
+                        "modified": 1438455011645
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1900",
+                        "formal": "+1900",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1900"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "ED 57 Brainerd city Ward 3, Crow Wing, Minnesota, United States",
+                        "description": "#4343809",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Brainerd, Crow Wing, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "4961d750-08e0-4416-b58f-6a3a36c19ca0",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1581830418310,
+                        "changeMessage": "Document names, birth year estimates, birth places and 1905 residence of self, brother, children, daughter-in-law and granddaughter."
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1905",
+                        "formal": "+1905",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1905"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Brainerd, Ward Number: 03, Crow Wing, Minnesota",
+                        "description": "#4343809",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Brainerd, Crow Wing, Minnesota, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "f47723ec-e7d6-4628-8b82-0f1e6194d01e",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMXD-6MV",
+                            "resourceId": "MMXD-6MV"
+                        },
+                        "modified": 1408650405871
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1910",
+                        "formal": "+1910",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1910"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Getchell, , Washington",
+                        "description": "#5212708",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Getchell, Snohomish, Washington, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "81b1bfea-1a07-44a2-8f95-33f232aee99a",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1581829470045,
+                        "changeMessage": "Document 1920 residence"
+                    },
+                    "type": "http://gedcomx.org/Residence",
+                    "date": {
+                        "original": "1920",
+                        "formal": "+1920",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "1920"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Getchell, Snohomish, Washington, United States",
+                        "description": "#5212708",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Getchell, Snohomish, Washington, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "9381f219-2889-4bfc-9b03-5527232282c1",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MM7T-6J3",
+                            "resourceId": "MM7T-6J3"
+                        },
+                        "modified": 1338138400247
+                    },
+                    "type": "http://gedcomx.org/Death",
+                    "date": {
+                        "original": "30 May 1929",
+                        "formal": "+1929-05-30",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "30 May 1929"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Evaline, Lewis Co., WA",
+                        "description": "#5197924",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Evaline, Lewis, Washington, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "774891e1-e643-41e5-a459-15bab543d57e",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMS1-PKV",
+                            "resourceId": "MMS1-PKV"
+                        },
+                        "modified": 1338138400247
+                    },
+                    "type": "http://gedcomx.org/Burial",
+                    "date": {
+                        "original": "Jun1929",
+                        "formal": "+1929-06",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "June 1929"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Granit Falls, Washington",
+                        "description": "#5305066",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Granite Falls, Snohomish, Washington, United States"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "76eb4144-fb22-45aa-ba43-d7b550410378",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMX2-M4T",
+                            "resourceId": "MMX2-M4T"
+                        },
+                        "modified": 1642394872086,
+                        "changeMessage": "Written on back of photo \"Dekota\""
+                    },
+                    "type": "http://gedcomx.org/Occupation",
+                    "place": {
+                        "original": "Black Hills, Fall River, Dakota Territory, United States",
+                        "description": "#8011084",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Black Hills, Fall River, Dakota Territory, United States"
+                            }
+                        ]
+                    },
+                    "value": "Bridge builder"
+                }
+            ],
+            "display": {
+                "name": "Lewis Edwin Heath",
+                "gender": "Male",
+                "lifespan": "1855-1929",
+                "birthDate": "11 September 1855",
+                "birthPlace": "Princeton, Mille Lacs, Minnesota, United States",
+                "deathDate": "30 May 1929",
+                "deathPlace": "Evaline, Lewis, Washington, United States",
+                "familiesAsParent": []
+            },
+            "personInfo": [
+                {
+                    "readOnly": false,
+                    "privateSpaceRestricted": false
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "id": "MM2G-8K2",
+            "type": "http://gedcomx.org/Couple",
+            "person1": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWZ1-JGZ",
+                "resourceId": "KWZ1-JGZ"
+            },
+            "person2": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWZ1-JG8",
+                "resourceId": "KWZ1-JG8"
+            },
+            "links": {
+                "source-references": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM2G-8K2/source-references?flag=fsh"
+                },
+                "change-history": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM2G-8K2/changes?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWZ1-JG8?flag=fsh"
+                },
+                "notes": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM2G-8K2/notes?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWZ1-JGZ?flag=fsh"
+                },
+                "source-descriptions": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM2G-8K2/sources?flag=fsh"
+                },
+                "relationship": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM2G-8K2?flag=fsh"
+                }
+            },
+            "facts": [
+                {
+                    "type": "http://gedcomx.org/Marriage",
+                    "date": {
+                        "original": "17 September 1947",
+                        "formal": "+1947-09-17",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "17 September 1947"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Salt Lake City, Salt Lake, Utah, United States",
+                        "description": "#5413607",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Salt Lake City, Salt Lake, Utah, United States"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "M7WH-LLH",
+            "type": "http://gedcomx.org/Couple",
+            "person1": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWCV-QZV",
+                "resourceId": "KWCV-QZV"
+            },
+            "person2": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWCV-QZG",
+                "resourceId": "KWCV-QZG"
+            },
+            "links": {
+                "source-references": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M7WH-LLH/source-references?flag=fsh"
+                },
+                "change-history": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M7WH-LLH/changes?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWCV-QZG?flag=fsh"
+                },
+                "notes": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M7WH-LLH/notes?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWCV-QZV?flag=fsh"
+                },
+                "source-descriptions": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M7WH-LLH/sources?flag=fsh"
+                },
+                "relationship": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M7WH-LLH?flag=fsh"
+                }
+            },
+            "facts": [
+                {
+                    "type": "http://gedcomx.org/Marriage",
+                    "date": {
+                        "original": "10 Apr 1939",
+                        "formal": "+1939-04-10",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "10 April 1939"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Salt Lake City, Salt Lake, Utah",
+                        "description": "#5413607",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Salt Lake City, Salt Lake, Utah, United States"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "M3L8-NDH",
+            "type": "http://gedcomx.org/Couple",
+            "person1": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWZK-N8C",
+                "resourceId": "KWZK-N8C"
+            },
+            "person2": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWZK-N8Q",
+                "resourceId": "KWZK-N8Q"
+            },
+            "links": {
+                "source-references": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M3L8-NDH/source-references?flag=fsh"
+                },
+                "change-history": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M3L8-NDH/changes?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWZK-N8Q?flag=fsh"
+                },
+                "notes": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M3L8-NDH/notes?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWZK-N8C?flag=fsh"
+                },
+                "source-descriptions": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M3L8-NDH/sources?flag=fsh"
+                },
+                "relationship": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/M3L8-NDH?flag=fsh"
+                }
+            },
+            "facts": [
+                {
+                    "type": "http://gedcomx.org/Marriage",
+                    "date": {
+                        "original": "27 Apr 1945",
+                        "formal": "+1945-04-27",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "27 April 1945"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Ogden, Weber, Utah, United States",
+                        "description": "#5314911",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Ogden, Weber, Utah, United States"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "MM8R-KPP",
+            "type": "http://gedcomx.org/Couple",
+            "person1": {
+                "resource": "#KNYR-3XQ",
+                "resourceId": "KNYR-3XQ"
+            },
+            "person2": {
+                "resource": "#KWC5-1YW",
+                "resourceId": "KWC5-1YW"
+            },
+            "links": {
+                "source-references": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM8R-KPP/source-references?flag=fsh"
+                },
+                "change-history": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM8R-KPP/changes?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC5-1YW?flag=fsh"
+                },
+                "notes": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM8R-KPP/notes?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KNYR-3XQ?flag=fsh"
+                },
+                "source-descriptions": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM8R-KPP/sources?flag=fsh"
+                },
+                "relationship": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MM8R-KPP?flag=fsh"
+                }
+            },
+            "facts": [
+                {
+                    "type": "http://gedcomx.org/Marriage",
+                    "date": {
+                        "original": "8 Oct 1877",
+                        "formal": "+1877-10-08",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "8 October 1877"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "MQZ5-K7W",
+            "type": "http://gedcomx.org/Couple",
+            "person1": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWC8-QNQ",
+                "resourceId": "KWC8-QNQ"
+            },
+            "person2": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWC8-QN6",
+                "resourceId": "KWC8-QN6"
+            },
+            "links": {
+                "source-references": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MQZ5-K7W/source-references?flag=fsh"
+                },
+                "change-history": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MQZ5-K7W/changes?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QN6?flag=fsh"
+                },
+                "notes": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MQZ5-K7W/notes?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QNQ?flag=fsh"
+                },
+                "source-descriptions": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MQZ5-K7W/sources?flag=fsh"
+                },
+                "relationship": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MQZ5-K7W?flag=fsh"
+                }
+            },
+            "facts": [
+                {
+                    "type": "http://gedcomx.org/Marriage",
+                    "date": {
+                        "original": "25 June 1941",
+                        "formal": "+1941-06-25",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "25 June 1941"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Salt Lake City, Salt Lake, Utah, United States",
+                        "description": "#5413607",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Salt Lake City, Salt Lake, Utah, United States"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "MMQT-G54",
+            "type": "http://gedcomx.org/Couple",
+            "person1": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ",
+                "resourceId": "KWC8-QNZ"
+            },
+            "person2": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWC8-QN4",
+                "resourceId": "KWC8-QN4"
+            },
+            "links": {
+                "source-references": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MMQT-G54/source-references?flag=fsh"
+                },
+                "change-history": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MMQT-G54/changes?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QN4?flag=fsh"
+                },
+                "notes": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MMQT-G54/notes?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ?flag=fsh"
+                },
+                "source-descriptions": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MMQT-G54/sources?flag=fsh"
+                },
+                "relationship": {
+                    "href": "https://www.familysearch.org/platform/tree/couple-relationships/MMQT-G54?flag=fsh"
+                }
+            },
+            "facts": [
+                {
+                    "type": "http://gedcomx.org/Marriage",
+                    "date": {
+                        "original": "5 June 1912",
+                        "formal": "+1912-06-05",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "5 June 1912"
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Seattle, King, Washington, United States",
+                        "description": "#5196503",
+                        "normalized": [
+                            {
+                                "lang": "en-US",
+                                "value": "Seattle, King, Washington, United States"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "P1M9J5-432",
+            "type": "http://gedcomx.org/ParentChild",
+            "person1": {
+                "resource": "#KNYR-3XQ",
+                "resourceId": "KNYR-3XQ"
+            },
+            "person2": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ",
+                "resourceId": "KWC8-QNZ"
+            },
+            "links": {
+                "parent": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KNYR-3XQ?flag=fsh"
+                },
+                "parent1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KNYR-3XQ?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KNYR-3XQ?flag=fsh"
+                },
+                "parent2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC5-1YW?flag=fsh"
+                },
+                "child": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ?flag=fsh"
+                }
+            },
+            "identifiers": {
+                "http://familysearch.org/v1/ChildAndParentsRelationship": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432"
+            }
+        },
+        {
+            "id": "P2M9J5-432",
+            "type": "http://gedcomx.org/ParentChild",
+            "person1": {
+                "resource": "#KWC5-1YW",
+                "resourceId": "KWC5-1YW"
+            },
+            "person2": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ",
+                "resourceId": "KWC8-QNZ"
+            },
+            "links": {
+                "parent": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC5-1YW?flag=fsh"
+                },
+                "parent1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KNYR-3XQ?flag=fsh"
+                },
+                "person2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ?flag=fsh"
+                },
+                "person1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC5-1YW?flag=fsh"
+                },
+                "parent2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC5-1YW?flag=fsh"
+                },
+                "child": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ?flag=fsh"
+                }
+            },
+            "identifiers": {
+                "http://familysearch.org/v1/ChildAndParentsRelationship": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432"
+            }
+        }
+    ],
+    "places": [
+        {
+            "id": "3453397",
+            "latitude": 52.52378,
+            "longitude": 13.412,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Berlin, Brandenburg, Germany"
+                }
+            ]
+        },
+        {
+            "id": "2035",
+            "latitude": 53.5508,
+            "longitude": 9.9877,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Hamburg, Germany"
+                }
+            ]
+        },
+        {
+            "id": "4574520",
+            "latitude": 40.6992,
+            "longitude": -74.0397,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Ellis Island, New York City, New York, United States"
+                }
+            ]
+        },
+        {
+            "id": "4608724",
+            "latitude": 42.88972,
+            "longitude": -78.85972,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Buffalo, Erie, New York, United States"
+                }
+            ]
+        },
+        {
+            "id": "4343699",
+            "latitude": 46.7639,
+            "longitude": -95.7331,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Burlington Township, Becker, Minnesota, United States"
+                }
+            ]
+        },
+        {
+            "id": "4343809",
+            "latitude": 46.35444,
+            "longitude": -94.19417,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Brainerd, Crow Wing, Minnesota, United States"
+                }
+            ]
+        },
+        {
+            "id": "5212708",
+            "latitude": 48.0722,
+            "longitude": -122.0958,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Getchell, Snohomish, Washington, United States"
+                }
+            ]
+        },
+        {
+            "id": "5199060",
+            "latitude": 48.0222,
+            "longitude": -122.0542,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Hartford, Snohomish, Washington, United States"
+                }
+            ]
+        },
+        {
+            "id": "5305066",
+            "latitude": 48.08417,
+            "longitude": -121.9675,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Granite Falls, Snohomish, Washington, United States"
+                }
+            ]
+        },
+        {
+            "id": "4346354",
+            "latitude": 45.5706,
+            "longitude": -93.5814,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Princeton, Mille Lacs, Minnesota, United States"
+                }
+            ]
+        },
+        {
+            "id": "4343794",
+            "latitude": 45.33667,
+            "longitude": -93.74667,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Big Lake, Sherburne, Minnesota, United States"
+                }
+            ]
+        },
+        {
+            "id": "392861",
+            "latitude": 45.13333,
+            "longitude": -94.51667,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Meeker, Minnesota, United States"
+                }
+            ]
+        },
+        {
+            "id": "5197924",
+            "latitude": 46.5397,
+            "longitude": -122.9369,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Evaline, Lewis, Washington, United States"
+                }
+            ]
+        },
+        {
+            "id": "8011084",
+            "latitude": 43.21666,
+            "longitude": -103.85,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Black Hills, Fall River, Dakota Territory, United States"
+                }
+            ]
+        },
+        {
+            "id": "5413607",
+            "latitude": 40.7608,
+            "longitude": -111.8903,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Salt Lake City, Salt Lake, Utah, United States"
+                }
+            ]
+        },
+        {
+            "id": "5314911",
+            "latitude": 41.2231,
+            "longitude": -111.9731,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Ogden, Weber, Utah, United States"
+                }
+            ]
+        },
+        {
+            "id": "5196503",
+            "latitude": 47.60639,
+            "longitude": -122.33083,
+            "names": [
+                {
+                    "lang": "en-US",
+                    "value": "Seattle, King, Washington, United States"
+                }
+            ]
+        }
+    ],
+    "childAndParentsRelationships": [
+        {
+            "id": "M9J5-432",
+            "parent1": {
+                "resource": "#KNYR-3XQ",
+                "resourceId": "KNYR-3XQ"
+            },
+            "parent2": {
+                "resource": "#KWC5-1YW",
+                "resourceId": "KWC5-1YW"
+            },
+            "child": {
+                "resource": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ",
+                "resourceId": "KWC8-QNZ"
+            },
+            "links": {
+                "parent1": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KNYR-3XQ?flag=fsh"
+                },
+                "parent2-role": {
+                    "href": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432/parent2?flag=fsh"
+                },
+                "change-history": {
+                    "href": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432/changes?flag=fsh"
+                },
+                "notes": {
+                    "href": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432/notes?flag=fsh"
+                },
+                "source-descriptions": {
+                    "href": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432/sources?flag=fsh"
+                },
+                "parent1-role": {
+                    "href": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432/parent1?flag=fsh"
+                },
+                "collection": {
+                    "href": "https://www.familysearch.org/platform/collections/tree?flag=fsh"
+                },
+                "relationship": {
+                    "href": "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432?flag=fsh"
+                },
+                "parent2": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC5-1YW?flag=fsh"
+                },
+                "child": {
+                    "href": "https://www.familysearch.org/platform/tree/persons/KWC8-QNZ?flag=fsh"
+                }
+            },
+            "identifiers": {
+                "http://gedcomx.org/Primary": [
+                    "https://www.familysearch.org/platform/tree/child-and-parents-relationships/M9J5-432"
+                ]
+            },
+            "parent1Facts": [
+                {
+                    "id": "ff640a2a-0d4a-463f-bfc5-d2385ae92bf3",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMMM-MM8",
+                            "resourceId": "MMMM-MM8"
+                        },
+                        "modified": 1334468471157
+                    },
+                    "type": "http://gedcomx.org/BiologicalParent"
+                }
+            ],
+            "parent2Facts": [
+                {
+                    "id": "6d0fd292-2d81-4878-bfa2-0c3c4696cf28",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "https://www.familysearch.org/platform/users/agents/MMMM-MMD",
+                            "resourceId": "MMMM-MMD"
+                        },
+                        "modified": 1390297906668
+                    },
+                    "type": "http://gedcomx.org/BiologicalParent"
+                }
+            ]
+        }
+    ]
+}

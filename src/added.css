@@ -1,0 +1,70 @@
+h1, h2 {
+    color:rgb(81, 80, 80)
+}
+  
+a {
+    text-decoration: none;
+}
+  
+.App {
+  display: flexbox;
+  width: 100%;
+} 
+
+.header {
+  width: 100%;
+}
+
+.body {
+  width: 100%;
+  background-color: rgb(234, 231, 231);
+}
+
+.mid {
+  width: 600px;
+  margin: auto;
+}
+
+.greenBar {
+  height: 2px;
+  width: 100%;
+  background-color: green;
+}
+  /* .header {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    height: 100px;
+  }
+  
+  .body {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 102px;
+    bottom: 100px;
+    background-color: rgb(234, 231, 231);
+  }
+  
+  .footer {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100px;
+  }
+  
+  .mid {
+    width: 600px;
+    margin: auto;
+  }
+  
+  .greenBar {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 100px;
+    height: 2px;
+    background-color: green;
+  } */

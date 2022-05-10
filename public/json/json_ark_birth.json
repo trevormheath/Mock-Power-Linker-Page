@@ -1,0 +1,1050 @@
+{
+    "id": "r_161999434900",
+    "lang": "en",
+    "attribution": {
+        "contributor": {
+            "resource": "cis.user.MMMM-JQWB"
+        },
+        "modified": 1601250061773,
+        "changeMessageResource": "http://familysearch.org/types/reasons/127657"
+    },
+    "links": {
+        "next": {
+            "href": "https://www.familysearch.org/ark:/61903/1:2:4DWK-CS3Z?seek=next"
+        },
+        "prev": {
+            "href": "https://www.familysearch.org/ark:/61903/1:2:4DWK-CS3Z?seek=prev"
+        },
+        "self": {
+            "href": "https://www.familysearch.org/ark:/61903/1:2:4DWK-CS3Z"
+        }
+    },
+    "description": "#sd_p_264630066100",
+    "persons": [
+        {
+            "id": "p_264630066000",
+            "extracted": true,
+            "principal": true,
+            "gender": {
+                "type": "http://gedcomx.org/Female",
+                "fields": [
+                    {
+                        "type": "http://gedcomx.org/Gender",
+                        "values": [
+                            {
+                                "id": "9bbe3b02-e157-430f-8a6e-587fbe2c79f9",
+                                "type": "http://gedcomx.org/Original",
+                                "labelId": "PR_SEX_CODE_ORIG",
+                                "text": "F",
+                                "resource": "https://sg30p0.familysearch.org/platform/vocab/terms/101620"
+                            },
+                            {
+                                "id": "3b826d10-9058-495a-bca6-a5d4db0a84a1",
+                                "attribution": {
+                                    "contributor": {
+                                        "resource": "http://treatment/CvGenderTreatment/ver/1"
+                                    },
+                                    "modified": 1601250076035
+                                },
+                                "type": "http://gedcomx.org/Interpreted",
+                                "labelId": "PR_SEX_CODE",
+                                "text": "Female",
+                                "resource": "http://ws.cv.standards.service.prod.us-east-1.prod.fslocal.org:80/cv/terms/109658"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "links": {
+                "persona": {
+                    "href": "https://api.familysearch.org/platform/records/personas/D3M3-PN2M?flag=fsh"
+                },
+                "record": {
+                    "href": "https://api.familysearch.org/platform/records/records/4DWK-CS3Z?flag=fsh"
+                }
+            },
+            "sources": [
+                {
+                    "description": "#sd2",
+                    "descriptionId": "sd2"
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/1:1:D3M3-PN2M"
+                ]
+            },
+            "names": [
+                {
+                    "type": "http://gedcomx.org/BirthName",
+                    "nameForms": [
+                        {
+                            "fullText": "Dorothy Irene Heath",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Dorothy Irene",
+                                    "fields": [
+                                        {
+                                            "type": "http://gedcomx.org/Given",
+                                            "values": [
+                                                {
+                                                    "id": "7767bcb9-f6cf-4eca-87cc-7c5d37566f63",
+                                                    "type": "http://gedcomx.org/Original",
+                                                    "labelId": "PR_NAME_GN_ORIG",
+                                                    "text": "Dorothy Irene"
+                                                },
+                                                {
+                                                    "id": "9cad5ca1-1ef1-4c6d-b93c-ac8d8f950eb5",
+                                                    "attribution": {
+                                                        "contributor": {
+                                                            "resource": "http://treatment/NameTreatment/ver/1"
+                                                        },
+                                                        "modified": 1601250075895
+                                                    },
+                                                    "type": "http://gedcomx.org/Interpreted",
+                                                    "labelId": "PR_NAME_GN",
+                                                    "text": "Dorothy Irene"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Heath",
+                                    "fields": [
+                                        {
+                                            "type": "http://gedcomx.org/Surname",
+                                            "values": [
+                                                {
+                                                    "id": "0bd4a065-ed19-44de-b432-b35d87772207",
+                                                    "type": "http://gedcomx.org/Original",
+                                                    "labelId": "PR_NAME_SURN_ORIG",
+                                                    "text": "Heath"
+                                                },
+                                                {
+                                                    "id": "333da547-2bce-46d1-a8d6-45c8956bbf18",
+                                                    "attribution": {
+                                                        "contributor": {
+                                                            "resource": "http://treatment/NameTreatment/ver/1"
+                                                        },
+                                                        "modified": 1601250075895
+                                                    },
+                                                    "type": "http://gedcomx.org/Interpreted",
+                                                    "labelId": "PR_NAME_SURN",
+                                                    "text": "Heath"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "fields": [
+                                {
+                                    "type": "http://gedcomx.org/Name",
+                                    "values": [
+                                        {
+                                            "attribution": {
+                                                "contributor": {
+                                                    "resource": "http://treatment/NameTreatment/ver/1"
+                                                },
+                                                "modified": 1601250075888
+                                            },
+                                            "type": "http://gedcomx.org/Original",
+                                            "labelId": "PR_NAME_ORIG",
+                                            "text": "Dorothy Irene Heath"
+                                        },
+                                        {
+                                            "id": "dcd083f4-0a90-49ea-9197-432e5b9c7c68",
+                                            "attribution": {
+                                                "contributor": {
+                                                    "resource": "http://treatment/NameTreatment/ver/1"
+                                                },
+                                                "modified": 1601250075895
+                                            },
+                                            "type": "http://gedcomx.org/Interpreted",
+                                            "labelId": "PR_NAME",
+                                            "text": "Dorothy Irene Heath"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "facts": [
+                {
+                    "type": "http://gedcomx.org/Birth",
+                    "date": {
+                        "original": "9 Jul 1915",
+                        "formal": "+1915-07-09",
+                        "fields": [
+                            {
+                                "type": "http://gedcomx.org/Date",
+                                "values": [
+                                    {
+                                        "attribution": {
+                                            "contributor": {
+                                                "resource": "http://treatment/StandardsDateTreatment/ver/2"
+                                            },
+                                            "modified": 1601250075888
+                                        },
+                                        "type": "http://gedcomx.org/Original",
+                                        "labelId": "EVENT_DATE_ORIG",
+                                        "text": "9 Jul 1915"
+                                    },
+                                    {
+                                        "id": "f6337282-8cd5-4a0c-9f8f-565fdc167057",
+                                        "attribution": {
+                                            "contributor": {
+                                                "resource": "http://treatment/StandardsDateTreatment/ver/2"
+                                            },
+                                            "modified": 1601250075888
+                                        },
+                                        "type": "http://gedcomx.org/Interpreted",
+                                        "labelId": "EVENT_DATE",
+                                        "text": "9 Jul 1915",
+                                        "resource": "+1915-07-09"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "http://gedcomx.org/Month",
+                                "values": [
+                                    {
+                                        "id": "fbc4fddc-ed79-47e3-8d84-d4385d10b0b2",
+                                        "type": "http://gedcomx.org/Original",
+                                        "labelId": "EVENT_MONTH_ORIG",
+                                        "text": "Jul",
+                                        "resource": "https://sg30p0.familysearch.org/platform/vocab/terms/107983"
+                                    },
+                                    {
+                                        "id": "94a35a7b-c2db-4fc0-838b-b8e730e695c6",
+                                        "attribution": {
+                                            "contributor": {
+                                                "resource": "http://treatment/StandardsDateTreatment/ver/2"
+                                            },
+                                            "modified": 1601250075888
+                                        },
+                                        "type": "http://gedcomx.org/Interpreted",
+                                        "labelId": "EVENT_MONTH",
+                                        "text": "7"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "http://gedcomx.org/Day",
+                                "values": [
+                                    {
+                                        "id": "5a0db357-655a-46a3-95c2-9ba456488f04",
+                                        "type": "http://gedcomx.org/Original",
+                                        "labelId": "EVENT_DAY_ORIG",
+                                        "text": "9"
+                                    },
+                                    {
+                                        "id": "4d13b7e2-d136-4dad-a105-b306c1ce7098",
+                                        "attribution": {
+                                            "contributor": {
+                                                "resource": "http://treatment/StandardsDateTreatment/ver/2"
+                                            },
+                                            "modified": 1601250075888
+                                        },
+                                        "type": "http://gedcomx.org/Interpreted",
+                                        "labelId": "EVENT_DAY",
+                                        "text": "9"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "http://gedcomx.org/Year",
+                                "values": [
+                                    {
+                                        "id": "12fd2780-fda7-4907-a598-fb423707884c",
+                                        "type": "http://gedcomx.org/Original",
+                                        "labelId": "EVENT_YEAR_ORIG",
+                                        "text": "1915"
+                                    },
+                                    {
+                                        "id": "ed33d912-e55e-402b-a9d5-34a2becf6dc4",
+                                        "attribution": {
+                                            "contributor": {
+                                                "resource": "http://treatment/StandardsDateTreatment/ver/2"
+                                            },
+                                            "modified": 1601250075888
+                                        },
+                                        "type": "http://gedcomx.org/Interpreted",
+                                        "labelId": "EVENT_YEAR",
+                                        "text": "1915"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "place": {
+                        "original": "Washington, United States",
+                        "description": "#place_373",
+                        "fields": [
+                            {
+                                "type": "http://gedcomx.org/Place",
+                                "values": [
+                                    {
+                                        "id": "decd71ca-bb35-4813-867d-b7bba0d660a5",
+                                        "confidence": "http://confidence/1",
+                                        "attribution": {
+                                            "contributor": {
+                                                "resource": "http://treatment/LocalityTreatment/ver/1"
+                                            },
+                                            "modified": 1601250076061
+                                        },
+                                        "type": "http://gedcomx.org/Interpreted",
+                                        "labelId": "EVENT_PLACE",
+                                        "text": "Washington, United States",
+                                        "resource": "https://www.familysearch.org/platform/places/description/373"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "primary": true,
+                    "fields": [
+                        {
+                            "type": "http://familysearch.org/types/fields/EventType",
+                            "values": [
+                                {
+                                    "id": "681b1bd6-3d38-4853-874c-1b8a8b96eb81",
+                                    "type": "http://gedcomx.org/Interpreted",
+                                    "labelId": "EVENT_TYPE",
+                                    "text": "Birth"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "p_264630066100",
+            "extracted": true,
+            "principal": false,
+            "gender": {
+                "type": "http://gedcomx.org/Male",
+                "fields": [
+                    {
+                        "type": "http://gedcomx.org/Gender",
+                        "values": [
+                            {
+                                "id": "d63071ea-bada-46d3-abca-f0c6ed91129d",
+                                "attribution": {
+                                    "contributor": {
+                                        "resource": "http://treatment/CvGenderTreatment/ver/1"
+                                    },
+                                    "modified": 1601250076035
+                                },
+                                "type": "http://gedcomx.org/Interpreted",
+                                "labelId": "PR_FTHR_SEX_CODE",
+                                "text": "Male",
+                                "resource": "http://ws.cv.standards.service.prod.us-east-1.prod.fslocal.org:80/cv/terms/109693"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "links": {
+                "persona": {
+                    "href": "https://api.familysearch.org/platform/records/personas/D3M3-PNPZ?flag=fsh"
+                },
+                "record": {
+                    "href": "https://api.familysearch.org/platform/records/records/4DWK-CS3Z?flag=fsh"
+                }
+            },
+            "sources": [
+                {
+                    "description": "#sd2",
+                    "descriptionId": "sd2"
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/1:1:D3M3-PNPZ"
+                ]
+            },
+            "names": [
+                {
+                    "type": "http://gedcomx.org/BirthName",
+                    "nameForms": [
+                        {
+                            "fullText": "Clarence Ernest Heath",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "Clarence Ernest",
+                                    "fields": [
+                                        {
+                                            "type": "http://gedcomx.org/Given",
+                                            "values": [
+                                                {
+                                                    "id": "a61b741d-f9c2-4866-9521-417bc795b292",
+                                                    "type": "http://gedcomx.org/Original",
+                                                    "labelId": "PR_FTHR_NAME_GN_ORIG",
+                                                    "text": "Clarence Ernest"
+                                                },
+                                                {
+                                                    "id": "e9c4b704-78f3-49b0-9d17-1e5cd3859ac3",
+                                                    "attribution": {
+                                                        "contributor": {
+                                                            "resource": "http://treatment/NameTreatment/ver/1"
+                                                        },
+                                                        "modified": 1601250075903
+                                                    },
+                                                    "type": "http://gedcomx.org/Interpreted",
+                                                    "labelId": "PR_FTHR_NAME_GN",
+                                                    "text": "Clarence Ernest"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Heath",
+                                    "fields": [
+                                        {
+                                            "type": "http://gedcomx.org/Surname",
+                                            "values": [
+                                                {
+                                                    "id": "6e97b921-38aa-4814-8287-93fe9dc27c67",
+                                                    "type": "http://gedcomx.org/Original",
+                                                    "labelId": "PR_FTHR_NAME_SURN_ORIG",
+                                                    "text": "Heath"
+                                                },
+                                                {
+                                                    "id": "f99582cd-0a6b-493e-a737-1a4d721d82c6",
+                                                    "attribution": {
+                                                        "contributor": {
+                                                            "resource": "http://treatment/NameTreatment/ver/1"
+                                                        },
+                                                        "modified": 1601250075903
+                                                    },
+                                                    "type": "http://gedcomx.org/Interpreted",
+                                                    "labelId": "PR_FTHR_NAME_SURN",
+                                                    "text": "Heath"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "fields": [
+                                {
+                                    "type": "http://gedcomx.org/Name",
+                                    "values": [
+                                        {
+                                            "attribution": {
+                                                "contributor": {
+                                                    "resource": "http://treatment/NameTreatment/ver/1"
+                                                },
+                                                "modified": 1601250075895
+                                            },
+                                            "type": "http://gedcomx.org/Original",
+                                            "labelId": "PR_FTHR_NAME_ORIG",
+                                            "text": "Clarence Ernest Heath"
+                                        },
+                                        {
+                                            "id": "018b858a-8938-4a77-837e-c6ac5ea2c077",
+                                            "attribution": {
+                                                "contributor": {
+                                                    "resource": "http://treatment/NameTreatment/ver/1"
+                                                },
+                                                "modified": 1601250075903
+                                            },
+                                            "type": "http://gedcomx.org/Interpreted",
+                                            "labelId": "PR_FTHR_NAME",
+                                            "text": "Clarence Ernest Heath"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "p_264630066200",
+            "extracted": true,
+            "principal": false,
+            "gender": {
+                "type": "http://gedcomx.org/Female",
+                "fields": [
+                    {
+                        "type": "http://gedcomx.org/Gender",
+                        "values": [
+                            {
+                                "id": "42182a92-79dd-46ea-b567-0e93a39b13f7",
+                                "attribution": {
+                                    "contributor": {
+                                        "resource": "http://treatment/CvGenderTreatment/ver/1"
+                                    },
+                                    "modified": 1601250076035
+                                },
+                                "type": "http://gedcomx.org/Interpreted",
+                                "labelId": "PR_MTHR_SEX_CODE",
+                                "text": "Female",
+                                "resource": "http://ws.cv.standards.service.prod.us-east-1.prod.fslocal.org:80/cv/terms/109658"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "links": {
+                "persona": {
+                    "href": "https://api.familysearch.org/platform/records/personas/D3M3-PNT2?flag=fsh"
+                },
+                "record": {
+                    "href": "https://api.familysearch.org/platform/records/records/4DWK-CS3Z?flag=fsh"
+                }
+            },
+            "sources": [
+                {
+                    "description": "#sd2",
+                    "descriptionId": "sd2"
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/1:1:D3M3-PNT2"
+                ]
+            },
+            "names": [
+                {
+                    "type": "http://gedcomx.org/BirthName",
+                    "nameForms": [
+                        {
+                            "fullText": "V Rosa Bell",
+                            "parts": [
+                                {
+                                    "type": "http://gedcomx.org/Given",
+                                    "value": "V Rosa",
+                                    "fields": [
+                                        {
+                                            "type": "http://gedcomx.org/Given",
+                                            "values": [
+                                                {
+                                                    "id": "0d8b0f43-52bd-465a-b0f6-5d3658c304d0",
+                                                    "type": "http://gedcomx.org/Original",
+                                                    "labelId": "PR_MTHR_NAME_GN_ORIG",
+                                                    "text": "V Rosa"
+                                                },
+                                                {
+                                                    "id": "e09424a4-9d41-45ee-a885-a6a8c20f07c2",
+                                                    "attribution": {
+                                                        "contributor": {
+                                                            "resource": "http://treatment/NameTreatment/ver/1"
+                                                        },
+                                                        "modified": 1601250075923
+                                                    },
+                                                    "type": "http://gedcomx.org/Interpreted",
+                                                    "labelId": "PR_MTHR_NAME_GN",
+                                                    "text": "V Rosa"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "http://gedcomx.org/Surname",
+                                    "value": "Bell",
+                                    "fields": [
+                                        {
+                                            "type": "http://gedcomx.org/Surname",
+                                            "values": [
+                                                {
+                                                    "id": "26c7a355-a1e2-4379-9ea3-1c0c2bae37a7",
+                                                    "type": "http://gedcomx.org/Original",
+                                                    "labelId": "PR_MTHR_NAME_SURN_ORIG",
+                                                    "text": "Bell"
+                                                },
+                                                {
+                                                    "id": "f6b47303-dab6-4d3f-ad2e-661c3589792b",
+                                                    "attribution": {
+                                                        "contributor": {
+                                                            "resource": "http://treatment/NameTreatment/ver/1"
+                                                        },
+                                                        "modified": 1601250075923
+                                                    },
+                                                    "type": "http://gedcomx.org/Interpreted",
+                                                    "labelId": "PR_MTHR_NAME_SURN",
+                                                    "text": "Bell"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "fields": [
+                                {
+                                    "type": "http://gedcomx.org/Name",
+                                    "values": [
+                                        {
+                                            "attribution": {
+                                                "contributor": {
+                                                    "resource": "http://treatment/NameTreatment/ver/1"
+                                                },
+                                                "modified": 1601250075903
+                                            },
+                                            "type": "http://gedcomx.org/Original",
+                                            "labelId": "PR_MTHR_NAME_ORIG",
+                                            "text": "V Rosa Bell"
+                                        },
+                                        {
+                                            "id": "e5b182b6-5df2-4930-a887-3b57629ef60c",
+                                            "attribution": {
+                                                "contributor": {
+                                                    "resource": "http://treatment/NameTreatment/ver/1"
+                                                },
+                                                "modified": 1601250075923
+                                            },
+                                            "type": "http://gedcomx.org/Interpreted",
+                                            "labelId": "PR_MTHR_NAME",
+                                            "text": "V Rosa Bell"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "id": "MM9.1.6/L9T2-TRNL",
+            "type": "http://gedcomx.org/ParentChild",
+            "person1": {
+                "resource": "#p_264630066100",
+                "resourceId": "p_264630066100"
+            },
+            "person2": {
+                "resource": "#p_264630066000",
+                "resourceId": "p_264630066000"
+            }
+        },
+        {
+            "id": "MM9.1.6/L9T2-TR29",
+            "type": "http://gedcomx.org/ParentChild",
+            "person1": {
+                "resource": "#p_264630066200",
+                "resourceId": "p_264630066200"
+            },
+            "person2": {
+                "resource": "#p_264630066000",
+                "resourceId": "p_264630066000"
+            }
+        },
+        {
+            "id": "MM9.1.6/L9T2-TRP8",
+            "type": "http://gedcomx.org/Couple",
+            "person1": {
+                "resource": "#p_264630066100",
+                "resourceId": "p_264630066100"
+            },
+            "person2": {
+                "resource": "#p_264630066200",
+                "resourceId": "p_264630066200"
+            }
+        }
+    ],
+    "sourceDescriptions": [
+        {
+            "id": "sd_c_3418468",
+            "about": "https://api.familysearch.org/platform/records/collections/3418468",
+            "resourceType": "http://gedcomx.org/Collection",
+            "created": 1590179324338,
+            "modified": 1619248931767,
+            "coverage": [
+                {
+                    "spatial": {
+                        "original": "Washington, United States",
+                        "description": "#place_1-58"
+                    },
+                    "temporal": {
+                        "original": "1873/1965",
+                        "formal": "1873/1965"
+                    },
+                    "recordType": "http://gedcomx.org/Birth"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "value": "Washington, County Birth Registers, 1873-1965"
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Primary": [
+                    "https://api.familysearch.org/platform/records/collections/3418468"
+                ]
+            }
+        },
+        {
+            "id": "src_r_161999434900",
+            "mediaType": "image/jpeg",
+            "about": "https://www.familysearch.org/ark:/61903/1:2:4DWK-CS3Z",
+            "componentOf": {
+                "description": "#sd_c_3418468"
+            },
+            "resourceType": "http://gedcomx.org/Record",
+            "created": 1601250076120,
+            "modified": 1619248931767,
+            "coverage": [
+                {
+                    "spatial": {
+                        "original": "Washington, United States"
+                    },
+                    "temporal": {
+                        "original": "9 Jul 1915"
+                    },
+                    "recordType": "http://gedcomx.org/Birth"
+                }
+            ],
+            "citations": [
+                {
+                    "value": "\"Washington, County Birth Registers, 1873-1965\", database, <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:2:4DWK-CS3Z : 27 September 2020), Entry for Dorothy Irene Heath, 1915."
+                }
+            ],
+            "sources": [
+                {
+                    "description": "#sd2",
+                    "descriptionId": "sd2"
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "value": "Entry for Dorothy Irene Heath, \"Washington, County Birth Registers, 1873-1965\""
+                }
+            ],
+            "rights": [
+                "http://familysearch.org/records/recordPermissions/CdsPrmAnyone"
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/1:2:4DWK-CS3Z"
+                ]
+            },
+            "descriptor": {
+                "resource": "https://www.familysearch.org/service/cds/recapi/collections/3418468#rd_MM9.1.9/MMMS-GM5"
+            }
+        },
+        {
+            "id": "sd_p_264630066000",
+            "about": "https://www.familysearch.org/ark:/61903/1:1:D3M3-PN2M",
+            "componentOf": {
+                "description": "#src_r_161999434900"
+            },
+            "resourceType": "http://gedcomx.org/Person",
+            "citations": [
+                {
+                    "value": "\"Washington, County Birth Registers, 1873-1965\", database, <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:D3M3-PN2M : 27 September 2020), Dorothy Irene Heath, 1915."
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "value": "Dorothy Irene Heath, \"Washington, County Birth Registers, 1873-1965\""
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/1:1:D3M3-PN2M"
+                ]
+            }
+        },
+        {
+            "id": "sd_p_264630066100",
+            "about": "https://www.familysearch.org/ark:/61903/1:1:D3M3-PNPZ",
+            "componentOf": {
+                "description": "#src_r_161999434900"
+            },
+            "resourceType": "http://gedcomx.org/Person",
+            "citations": [
+                {
+                    "value": "\"Washington, County Birth Registers, 1873-1965\", database, <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:D3M3-PNPZ : 27 September 2020), Clarence Ernest Heath in entry for Dorothy Irene Heath, 1915."
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "value": "Clarence Ernest Heath in entry for Dorothy Irene Heath, \"Washington, County Birth Registers, 1873-1965\""
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/1:1:D3M3-PNPZ"
+                ]
+            }
+        },
+        {
+            "id": "sd_p_264630066200",
+            "about": "https://www.familysearch.org/ark:/61903/1:1:D3M3-PNT2",
+            "componentOf": {
+                "description": "#src_r_161999434900"
+            },
+            "resourceType": "http://gedcomx.org/Person",
+            "citations": [
+                {
+                    "value": "\"Washington, County Birth Registers, 1873-1965\", database, <i>FamilySearch</i> (https://www.familysearch.org/ark:/61903/1:1:D3M3-PNT2 : 27 September 2020), V Rosa Bell in entry for Dorothy Irene Heath, 1915."
+                }
+            ],
+            "titles": [
+                {
+                    "lang": "en",
+                    "value": "V Rosa Bell in entry for Dorothy Irene Heath, \"Washington, County Birth Registers, 1873-1965\""
+                }
+            ],
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/1:1:D3M3-PNT2"
+                ]
+            }
+        },
+        {
+            "id": "sd2",
+            "mediaType": "image/jpeg",
+            "about": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9TX-G9SV-T?cc=3418468",
+            "resourceType": "http://gedcomx.org/DigitalArtifact",
+            "repository": {
+                "resourceId": "#a1"
+            },
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9TX-G9SV-T?cc=3418468"
+                ]
+            }
+        }
+    ],
+    "agents": [
+        {
+            "id": "a1",
+            "identifiers": {
+                "http://gedcomx.org/Persistent": [
+                    "www.familysearch.org"
+                ]
+            }
+        }
+    ],
+    "places": [
+        {
+            "place": {
+                "resource": "https://www.familysearch.org/platform/places/description/373",
+                "resourceId": "place_373"
+            }
+        },
+        {
+            "id": "place_1-58",
+            "identifiers": {
+                "http://gedcomx.org/Primary": [
+                    "https://api.familysearch.org/authorities/v1/place/58?context=1"
+                ]
+            }
+        }
+    ],
+    "fields": [
+        {
+            "type": "http://familysearch.org/types/fields/BatchId",
+            "values": [
+                {
+                    "id": "18a3d023-4417-4ab6-b9c2-788b72a24d79",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_BATCH_ID",
+                    "text": "8d52e90c-7a7e-403d-827a-72d9f5c2e579"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/CollectionId",
+            "values": [
+                {
+                    "id": "5519e3a3-8b9b-46ba-9f51-9b5ee1603175",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_COLLECTION_ID",
+                    "text": "3418468"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/DigitalFilmNumber",
+            "values": [
+                {
+                    "id": "b684415c-3ebd-48cf-926a-cfe0b07136f1",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_DIGITAL_FILM_NBR",
+                    "text": "101140005"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/IdxProjectId",
+            "values": [
+                {
+                    "id": "1eca1ad6-814c-44a8-a855-3da35f356b0e",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_IDX_PROJECT_ID",
+                    "text": "bc677963-5644-4408-8138-85f5c502ebe5"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/IdxTemplateId",
+            "values": [
+                {
+                    "id": "4e665691-fbe0-47af-bdb0-f4943b3fca73",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_IDX_TEMPLATE_ID",
+                    "text": "template://idx-template/templates/entity/template;entitytype=PROJECT;entityid=bc677963-5644-4408-8138-85f5c502ebe5;name=bd1f8d9d-7b94-4fe1-adcd-afcb6d8d9006"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/ImageApid",
+            "values": [
+                {
+                    "id": "bf15989b-32c9-47b5-a20c-b9199163b7e3",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_IMAGE_APID",
+                    "text": "TH-909-50842-29366-26"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/ImageNumber",
+            "values": [
+                {
+                    "id": "e77ffe3a-ae42-4789-bd3d-16d486952eb3",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_IMAGE_NBR",
+                    "text": "02202"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/FsModelVer",
+            "values": [
+                {
+                    "id": "d58c73e2-abf9-4307-9526-fb0f9b678dfa",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_MODEL_VER",
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/PpqId",
+            "values": [
+                {
+                    "id": "5aa1bc4f-7ec3-420f-a37f-05e413b48aec",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_PPQ_ID",
+                    "text": "19-1283"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/RecordNumber",
+            "values": [
+                {
+                    "id": "8781c4ce-8f03-488b-ae92-a041f015c870",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_RECORD_NBR",
+                    "text": "54"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/ImageArk",
+            "values": [
+                {
+                    "id": "899f8e1f-ea78-4d62-be69-85878a851226",
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "IMAGE_ARK",
+                    "text": "https://familysearch.org/ark:/61903/3:1:3Q9M-C9TX-G9SV-T"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/SortKey",
+            "values": [
+                {
+                    "id": "777f6636-e5ae-4663-b804-8fac9b397cb1",
+                    "attribution": {
+                        "contributor": {
+                            "resource": "http://treatment/SortKeyTreatment/ver/1"
+                        },
+                        "modified": 1601250076061
+                    },
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_SORT_KEY",
+                    "text": "0000000101140005_02202_00054_0000161999434900"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/RecordVersion",
+            "values": [
+                {
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_RECORD_VERSION",
+                    "text": "0"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/UserModified",
+            "values": [
+                {
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_USER_MODIFIED",
+                    "text": "false"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/CdsBatchId",
+            "values": [
+                {
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_CDS_BATCH_ID",
+                    "text": "56349"
+                }
+            ]
+        },
+        {
+            "type": "http://familysearch.org/types/fields/PublicationStatus",
+            "values": [
+                {
+                    "type": "http://gedcomx.org/Interpreted",
+                    "labelId": "FS_PUB_STATUS",
+                    "text": "Production"
+                }
+            ]
+        }
+    ],
+    "qualifiers": [
+        {
+            "value": "true",
+            "name": "TreatmentWarnings"
+        }
+    ],
+    "additionalAttribution": [
+        {
+            "contributor": {
+                "resource": "cis.user.MMM3-3KF8"
+            },
+            "modified": 1599238596214,
+            "changeMessageResource": "http://familysearch.org/types/reasons/127657"
+        }
+    ]
+}
