@@ -7,7 +7,8 @@ a {
 }
   
 .App {
-  display: flexbox;
+  display: flex;
+  flex-direction: column;
   width: 100%;
 } 
 
@@ -30,6 +31,37 @@ a {
   width: 100%;
   background-color: green;
 }
+
+.expandBar {
+  display: flex;
+  width: 100%;
+  background-color: rgb(242, 239, 239);
+  border: 1px solid rgb(73, 73, 73);
+  border-radius: 5px;
+}
+
+.halfBar {
+  width: 50%;
+}
+
+.expandBarText {
+  border-bottom: 1px solid rgb(73, 73, 73);
+  padding-left: 15px;
+}
+
+.expandListText{
+  padding-left: 15px;
+}
+
+
+input[type='checkbox'] { display: none; } 
+.lbl-toggle::before { content: ' '; display: inline-block; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid currentColor; vertical-align: middle; margin-right: .7rem; transform: translateY(-2px); transition: transform .2s ease-out; } 
+.toggle:checked+.lbl-toggle::before { transform: rotate(90deg) translateX(-3px); } 
+.collapsible-content { max-height: 0px; overflow: hidden; transition: max-height .25s ease-in-out; } 
+.toggle:checked + .lbl-toggle + .collapsible-content { max-height: 350px; } 
+.toggle:checked+.lbl-toggle { border-bottom-right-radius: 0; border-bottom-left-radius: 0; } 
+
+
   /* .header {
     position: absolute;
     left: 0px;

@@ -1,11 +1,14 @@
 import './App.css';
 import Header from './components/Header.js';
-import MainBody from './components/MainBody';
-import Footer from './components/Footer';
+import MainBody from './components/MainBody.js';
+import Footer from './components/Footer.js';
 import React, { useEffect, useState } from 'react';
 
-//get the data for the other things on the page now that I know how to use fetch and actually get the data
-//create a collapsible item
+//figure out how to display people from the ark file
+//ark will create the on Record side and the other files will create the from Tree
+
+//once i got both sides working, then work on implementing the api for the fetch calls
+    //then can add the links to the page and start figuring out attatching
 
 function App() {
     const [arkJson, setArkJson] = useState(null);
@@ -27,10 +30,11 @@ function App() {
         <div className="App">
             <>
                 {/* header just needs name, link to record, and link to person */}
-                <Header name={arkJson.persons[1].names[0].nameForms[0].fullText}/>
+                {/* {console.log(arkJson)} */}
+                <Header json={arkJson}/>
                 <div className="greenBar"></div>
                 {/* main body needs the record title, person name, links, and then the people */}
-                <MainBody />
+                <MainBody json={arkJson}/>
                 {/* just links to whatever resources */}
                 <Footer />
             </>
