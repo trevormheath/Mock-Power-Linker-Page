@@ -22,7 +22,7 @@ a {
 }
 
 .mid {
-  width: 600px;
+  width: 800px;
   margin: auto;
 }
 
@@ -60,43 +60,3 @@ input[type='checkbox'] { display: none; }
 .collapsible-content { max-height: 0px; overflow: hidden; transition: max-height .25s ease-in-out; } 
 .toggle:checked + .lbl-toggle + .collapsible-content { max-height: 350px; } 
 .toggle:checked+.lbl-toggle { border-bottom-right-radius: 0; border-bottom-left-radius: 0; } 
-
-
-  /* .header {
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 0px;
-    height: 100px;
-  }
-  
-  .body {
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 102px;
-    bottom: 100px;
-    background-color: rgb(234, 231, 231);
-  }
-  
-  .footer {
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    height: 100px;
-  }
-  
-  .mid {
-    width: 600px;
-    margin: auto;
-  }
-  
-  .greenBar {
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 100px;
-    height: 2px;
-    background-color: green;
-  } */

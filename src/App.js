@@ -3,6 +3,8 @@ import Header from './components/Header.js';
 import MainBody from './components/MainBody.js';
 import Footer from './components/Footer.js';
 import React, { useEffect, useState } from 'react';
+import {DndProvider} from "react-dnd";
+import {HTML5Backend} from "react-dnd-html5-backend";
 
 //figure out how to display people from the ark file
 //ark will create the on Record side and the other files will create the from Tree
@@ -27,18 +29,20 @@ function App() {
       }, []);
 
     return (
-        <div className="App">
-            <>
-                {/* header just needs name, link to record, and link to person */}
-                {/* {console.log(arkJson)} */}
-                <Header json={arkJson}/>
-                <div className="greenBar"></div>
-                {/* main body needs the record title, person name, links, and then the people */}
-                <MainBody json={arkJson}/>
-                {/* just links to whatever resources */}
-                <Footer />
-            </>
-        </div>
+        <DndProvider backend={HTML5Backend}>
+            <div className="App">
+                <>
+                    {/* header just needs name, link to record, and link to person */}
+                    {/* {console.log(arkJson)} */}
+                    <Header json={arkJson}/>
+                    <div className="greenBar"></div>
+                    {/* main body needs the record title, person name, links, and then the people */}
+                    <MainBody json={arkJson}/>
+                    {/* just links to whatever resources */}
+                    <Footer />
+                </>
+            </div>
+        </DndProvider>
     );
 }
 

@@ -1,5 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
-
+import React, { useState, useRef} from "react";
 import "./Accordion.css";
 
 function AccordionElement({person}) {
@@ -8,12 +7,6 @@ function AccordionElement({person}) {
   const [setWord, setWordState] = useState("Details");
 
   const content = useRef(null);
-
-  // const personDetails = person.facts;
-
-  useEffect(() => {
-      //figure out why this only updates on save and not refresh
-  }, []);
 
   function toggleAccordion() {
     setActiveState(setActive === "" ? "active" : "");
@@ -31,8 +24,18 @@ function AccordionElement({person}) {
   if(personFactList != null) {
     for(let i = 0; i < personFactList.length; i++){
         let parseList = personFactList[i].type.split("/")
-
         let type = parseList[parseList.length-1]
+
+        //deal with some of the weird formatting, seen for Obituary
+        if(type.includes("data:,")) {
+          type = type.substr(6);
+
+          //further edit seen in Military Draft Registration
+          if(type.includes("%20")) {
+            let parseList2 = type.split("%20")
+            type = parseList2.join(" ")
+          }
+        }
         let date = personFactList[i].date != null ? personFactList[i].date.original : "Unknown Date"
         let place = personFactList[i].place != null ? personFactList[i].place.original : "Unknown Location"
 

@@ -24,12 +24,11 @@ function AccordionSection({category, recordArray}) {
       }
       getTreePersons();
 
-      //figure out why this only updates on save and not refresh
+      //open the accordion section if there are records to link
       if(recordArray.length > 0) {
-        //what the heck
         toggleAccordion()
       }
-  }, []);
+  }, [recordArray.length]);
 
 
 
@@ -43,11 +42,11 @@ function AccordionSection({category, recordArray}) {
     );
   }
   
-  function adjustHeight() {
-    setHeightState(
-      setActive === "active" ? "0px" : `${content.current.scrollHeight + 18}px`
-    );
-  }
+  // function adjustHeight() {
+  //   setHeightState(
+  //     setActive === "active" ? "0px" : `${content.current.scrollHeight + 18}px`
+  //   );
+  // }
 
   return (
     <div className="accordion__section">
@@ -58,7 +57,7 @@ function AccordionSection({category, recordArray}) {
         <Chevron className={`${setRotate}`} width={10} fill={"#777"} />
       </button>
       <div ref={content} style={{ maxHeight: `${setHeight}` }} className="accordion__content">
-        <SectionTable recordArray={recordArray} treeArray={treePersons} />
+        <SectionTable recordArray={recordArray} treeArray={treePersons} tableName={category}/>
       </div>
     </div>
   );
@@ -73,8 +72,8 @@ function AccordionSection({category, recordArray}) {
 //           {treePersons.map((person) => <ListRow name={person.display.name} key={person.id}/>)}
 //         </div>
 
-{/* <div
+/* <div
           className="accordion__text"
           dangerouslySetInnerHTML={{ __html: props.content }}
-        /> */}
+        /> */
 export default AccordionSection;
