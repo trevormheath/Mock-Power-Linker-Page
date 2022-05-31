@@ -26,7 +26,7 @@ function DragDropEl({content, tableName, id}) {
 
   return(
     <td ref={drop}>
-      <div class="test" ref={drag}>
+      <div className="test" ref={drag}>
         {contentEl}
       </div>
     </td>

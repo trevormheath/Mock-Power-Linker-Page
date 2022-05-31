@@ -10,8 +10,10 @@ function SectionTable({recordArray, treeArray, tableName}) {
     let tableComponents = [];
     //create the table for the given arrays
     for(let i = 0; i < maxArraySize; i++){
+        //create a drag and droppable first column if there is data to be rendered, just plain accordion elements in second column
         let firstCol = recordArray[i] == null ? <DragDropEl tableName={tableName} content={<div></div>} id="emptyString"/> : <DragDropEl tableName={tableName}id={recordArray[i].id} content={<AccordionElement person={recordArray[i]} key={recordArray[i].id}/>} />
         let secondCol = treeArray[i] == null ? <td></td> : <td><AccordionElement person={treeArray[i]} key={treeArray[i].description}/></td>
+        //push one row at a time to the array of elements (will have blank elements matching longest column)
         tableComponents.push(
             <tr key={"Row" + i}>
                 {firstCol}
@@ -19,11 +21,6 @@ function SectionTable({recordArray, treeArray, tableName}) {
             </tr>
         )
     }
-    /* make the first element dragable and the second not
-                +if the element is null/empty then just fill it with something
-                +have a set height and color background
-                +have a compare feature
-                +use the accordion element for each td */
 
     return (
         <table>
