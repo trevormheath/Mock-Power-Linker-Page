@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mock-Power-Linker-Page/static/css/main.31f945e4.css",
+    "main.js": "/Mock-Power-Linker-Page/static/js/main.6ae8e9e0.js",
+    "static/js/787.0a6237d6.chunk.js": "/Mock-Power-Linker-Page/static/js/787.0a6237d6.chunk.js",
+    "index.html": "/Mock-Power-Linker-Page/index.html",
+    "main.31f945e4.css.map": "/Mock-Power-Linker-Page/static/css/main.31f945e4.css.map",
+    "main.6ae8e9e0.js.map": "/Mock-Power-Linker-Page/static/js/main.6ae8e9e0.js.map",
+    "787.0a6237d6.chunk.js.map": "/Mock-Power-Linker-Page/static/js/787.0a6237d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f945e4.css",
+    "static/js/main.6ae8e9e0.js"
+  ]
+}
