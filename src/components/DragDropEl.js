@@ -22,9 +22,15 @@ function DragDropEl({content, tableName, id}) {
     collect: (monitor) => ({
       isDragging: !!monitor.isDragging(),
     }),
-    //this will remove the previous element after one is dropped but the state doesn't carry yet so I disabled it
-    //end: () => setContentEl(<div></div>),
-  }));
+  end: (item, monitor) => {
+    //if it's a successful drop and the item is valid then delete the dragged element
+    const dropResult = monitor.getDropResult();
+    //add a case (maybe change id assignment) so that it won't delete if dropped on self
+    if(item && dropResult){
+      setContentEl(<div></div>)
+    }
+  },
+  }), [contentEl]);
 
   return(
     <td ref={drop}>

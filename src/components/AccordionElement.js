@@ -49,7 +49,8 @@ function AccordionElement({person}) {
   return (
     <div className="accordion__section">
       <button className={`accordion ${setActive}`} onClick={toggleAccordion}>
-        <div>{person.names[0].nameForms[0].fullText} {setWord}</div>
+        <div>{person.names[0].nameForms[0].fullText}</div>
+        <div className="accordion__word">{setWord}</div>
       </button>
       <div ref={content} style={{ maxHeight: `${setHeight}` }} className="accordion__content">
         <div>{personFactHTML}</div>
