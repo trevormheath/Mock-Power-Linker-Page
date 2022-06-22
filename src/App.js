@@ -1,21 +1,17 @@
-import './App.css';
+import './css/App.css';
 import Header from './components/Header.js';
 import MainBody from './components/MainBody.js';
 import Footer from './components/Footer.js';
 import React, { useEffect, useState } from 'react';
 import {DndProvider} from "react-dnd";
 import {HTML5Backend} from "react-dnd-html5-backend";
-import { unstable_renderSubtreeIntoContainer } from 'react-dom';
-import { toHaveAccessibleDescription } from '@testing-library/jest-dom/dist/matchers';
-
-//figure out how to display people from the ark file
-//ark will create the on Record side and the other files will create the from Tree
-
-//once i got both sides working, then work on implementing the api for the fetch calls
-    //then can add the links to the page and start figuring out attatching
+// import { unstable_renderSubtreeIntoContainer } from 'react-dom';
+// import { toHaveAccessibleDescription } from '@testing-library/jest-dom/dist/matchers';
 
 function App() {
     
+    //most of the commented out code on this page are to create a form that allows for searching of an ark value, but we need the ability to access those json values since we can't just fetch familysearch
+
     //const [arkVal, setArkVal] = useState("");
 
     const [arkJson, setArkJson] = useState(null);
@@ -23,8 +19,10 @@ function App() {
 
     useEffect(() => {
         async function getArkJson() {
-            //change this to call the actual api with a given ark value when ready
+            //this is the correct link but need an api key to be able to fetch it
             // await fetch(`https://www.familysearch.org/ark:/61903/1:1:${arkVal}`)
+
+            //for working on front end just use downloaded json files
             await fetch('./json/json_ark_birth.json')
                 .then(response => response.json())
                 .then(data => {

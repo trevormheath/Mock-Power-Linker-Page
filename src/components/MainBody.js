@@ -1,11 +1,13 @@
 import AccordionSection from './AccordionSection.js';
 
+// this json object is the json returned by the ark
 function MainBody({json}) {
-    // this json object is the json returned by the ark
+    
+
+    //this is for asynchronous reasons, breaks initially if it tries to set these values when the fetch hasn't returned yet
     let personName = json != null ? json.persons[1].names[0].nameForms[0].fullText : "Loading...";
     let recordTitle = json != null ? json.sourceDescriptions[0].titles[0].value : "Loading...";
 
-    //set it to the id in the scription without the leading value
     let personId = json != null ? json.description.substring(4) : "Loading Id"
     let relationships = json != null ? json.relationships : "Loading relationships"
     let persons = json != null ? json.persons : "Loading persons"
@@ -20,14 +22,18 @@ function MainBody({json}) {
     for(const relationship of relationships){
         let type = relationship.type
         if(type != null) {
+            //get the type from the value returned
             let splitList = type.split("/")
             type = splitList[splitList.length-1]
             
             if(type === "ParentChild") {
+                //if they are a parent or a child, Parent is the first person and Child is the second person
                 if(relationship.person1.resourceId === personId){
+                    //if the first person matches the right id then their child is the second id in the relationship
                     recordChildren[recordChildren.length] = relationship.person2.resourceId
                 }
                 else if (relationship.person2.resourceId === personId){
+                    //if second id matches then the first id is their parent
                     recordParents[recordParents.length] = relationship.person1.resourceId
                 }
             }
@@ -38,6 +44,8 @@ function MainBody({json}) {
                 else if (relationship.person2.resourceId === personId){
                     recordSpouses[recordSpouses.length] = relationship.person1.resourceId
                 }
+
+            //can add other relationship types if we find them but ParentChild and Couple are the most prominent
             } else {
                 if(relationship.person1.resourceId === personId){
                     recordOthers[recordOthers.length] = relationship.person2.resourceId

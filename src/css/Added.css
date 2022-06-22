@@ -1,3 +1,5 @@
+/* Imported in index.js the styles added to the default index.css */
+
 h1, h2 {
     color:rgb(81, 80, 80)
 }
@@ -53,7 +55,6 @@ a {
   padding-left: 15px;
 }
 
-
 input[type='checkbox'] { display: none; } 
 .lbl-toggle::before { content: ' '; display: inline-block; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid currentColor; vertical-align: middle; margin-right: .7rem; transform: translateY(-2px); transition: transform .2s ease-out; } 
 .toggle:checked+.lbl-toggle::before { transform: rotate(90deg) translateX(-3px); } 
@@ -61,10 +62,16 @@ input[type='checkbox'] { display: none; }
 .toggle:checked + .lbl-toggle + .collapsible-content { max-height: 350px; } 
 .toggle:checked+.lbl-toggle { border-bottom-right-radius: 0; border-bottom-left-radius: 0; } 
 
+
+
+
+
+/* test out transform a seperate element than the one hovered */
 .testContainer p {
   transition: 1s ease-in-out;
 }
 
+/* test the + modifier */
 #elementOne:hover + #elementTwo {
   transform: translate(100px, 0);
 }

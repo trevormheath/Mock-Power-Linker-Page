@@ -15,13 +15,15 @@ function DragDropEl({content, tableName, id}) {
     }),
   }));
 
+  //having problems with carrying over the state. It will update the dom but not the actual element
   const [/**{isDragging}*/, drag] = useDrag(() => ({
     type: tableName +".item",
     item: {content: contentEl, id: id},
     collect: (monitor) => ({
       isDragging: !!monitor.isDragging(),
     }),
-    //end: () => setContentEl(<div>Empty</div>),
+    //this will remove the previous element after one is dropped but the state doesn't carry yet so I disabled it
+    //end: () => setContentEl(<div></div>),
   }));
 
   return(
@@ -33,4 +35,4 @@ function DragDropEl({content, tableName, id}) {
   );
 }
 
-export default DragDropEl
+export default DragDropEl;

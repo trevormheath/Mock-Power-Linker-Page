@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import Chevron from "./Chevron";
 import SectionTable from "./SectionTable";
 
-import "./Accordion.css";
+import "../css/Accordion.css";
 
 function AccordionSection({category, recordArray}) {
   const [setActive, setActiveState] = useState("");
@@ -13,6 +13,15 @@ function AccordionSection({category, recordArray}) {
 
   const [treePersons, setTreePersons] = useState([])
 
+  function toggleAccordion() {
+    setActiveState(setActive === "" ? "active" : "");
+    setHeightState(
+      setActive === "active" ? "0px" : `${content.current.scrollHeight + 18}px`
+    );
+    setRotateState(
+      setActive === "active" ? "accordion__icon" : "accordion__icon rotate"
+    );
+  }
 
   useEffect(() => {
       async function getTreePersons() {
@@ -24,29 +33,11 @@ function AccordionSection({category, recordArray}) {
       }
       getTreePersons();
 
-      //open the accordion section if there are records to link
+      //open the accordion section by default if there are records to link(doesn't always work)
       if(recordArray.length > 0) {
         toggleAccordion()
       }
   }, [recordArray.length]);
-
-
-
-  function toggleAccordion() {
-    setActiveState(setActive === "" ? "active" : "");
-    setHeightState(
-      setActive === "active" ? "0px" : `${content.current.scrollHeight + 18}px`
-    );
-    setRotateState(
-      setActive === "active" ? "accordion__icon" : "accordion__icon rotate"
-    );
-  }
-  
-  // function adjustHeight() {
-  //   setHeightState(
-  //     setActive === "active" ? "0px" : `${content.current.scrollHeight + 18}px`
-  //   );
-  // }
 
   return (
     <div className="accordion__section">
@@ -63,17 +54,4 @@ function AccordionSection({category, recordArray}) {
   );
 }
 
-// <div className="accordion__text">
-//            {/* import the values found from the record being added*/}
-//            {recordArray.map((person) => <ListRow name={person.names[0].nameForms[0].fullText} key={person.id}/>)}
-//         </div>
-//         <div className="accordion__text">
-//           {/* import the values found from the json_{category} endpoint which is the ones already added to the tree*/}
-//           {treePersons.map((person) => <ListRow name={person.display.name} key={person.id}/>)}
-//         </div>
-
-/* <div
-          className="accordion__text"
-          dangerouslySetInnerHTML={{ __html: props.content }}
-        /> */
 export default AccordionSection;

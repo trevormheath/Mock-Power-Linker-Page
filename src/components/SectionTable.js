@@ -1,14 +1,15 @@
 import AccordionElement from "./AccordionElement.js";
-import "./Table.css";
+import "../css/Table.css";
 import DragDropEl from "./DragDropEl.js";
 
 function SectionTable({recordArray, treeArray, tableName}) {
 
     
-
+    //get the length of the bigger array so the boxes line up on both sides
     let maxArraySize = recordArray.length < treeArray.length ?  treeArray.length : recordArray.length
+
+    //create an array of components that can be rendered
     let tableComponents = [];
-    //create the table for the given arrays
 
     const toggleCompare = event => {
         event.preventDefault();
@@ -34,9 +35,6 @@ function SectionTable({recordArray, treeArray, tableName}) {
             </tr>
         )
     }
-    //borders not on the td elements but instead on the tr?
-    //then I need to find an Img for the Compare element to put in the middle
-    //then have classes for each col that the img tag can call to expand said element
 
     return (
         <table>

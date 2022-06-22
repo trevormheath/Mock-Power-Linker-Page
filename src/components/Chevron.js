@@ -1,5 +1,6 @@
 import React from "react";
 
+//this is just the Chevro aka the little arrow that rotates for dropdown menus (copied code)
 function Chevron(props) {
   return (
     <svg

@@ -1,9 +1,10 @@
 import React, { useState, useRef} from "react";
-import "./Accordion.css";
+import "../css/Accordion.css";
 
 function AccordionElement({person}) {
   const [setActive, setActiveState] = useState("");
   const [setHeight, setHeightState] = useState("0px");
+  //word that changes based on if the list is expanded or not
   const [setWord, setWordState] = useState("Details");
 
   const content = useRef(null);
@@ -18,26 +19,27 @@ function AccordionElement({person}) {
     );
   }
 
+  //parse all of the facts about a given individual for the drop-down element
   let personFactHTML = []
   let personFactList = person.facts
-  //fix the weird facts that have data: in them
   if(personFactList != null) {
     for(let i = 0; i < personFactList.length; i++){
       let parseList = personFactList[i].type.split("/")
       let type = parseList[parseList.length-1]
 
-      //deal with some of the weird formatting, seen for Obituary
+      //this deals with some of the weird formatting, seen for Obituary
       if(type.includes("data:,")) {
         type = type.substr(6);
-
-        //further edit seen in Military Draft Registration
+        //more weird formatting seen in Military Draft Registration
         if(type.includes("%20")) {
           let parseList2 = type.split("%20")
           type = parseList2.join(" ")
         }
       }
+
       let date = personFactList[i].date != null ? personFactList[i].date.original : "Unknown Date"
       let place = personFactList[i].place != null ? personFactList[i].place.original : "Unknown Location"
+
       personFactHTML.push(
         <div className="detailsList" key={"FactRow" + i}>{type}: On {date} at {place}</div>
       )
@@ -56,11 +58,3 @@ function AccordionElement({person}) {
   );
 }
 export default AccordionElement;
-// row
-// <div ref={content} style={{ maxHeight: `${setHeight}` }}>
-//  <Element 1>
-//  <Button onClick={toggleAccordion attachComparison}>Compare</Button>
-//  <Element 2>
-//  <Button onClick={toggleAccordion}>Details</Button>
-// </div>
-
