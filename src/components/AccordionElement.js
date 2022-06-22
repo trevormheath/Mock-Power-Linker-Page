@@ -56,3 +56,11 @@ function AccordionElement({person}) {
   );
 }
 export default AccordionElement;
+// row
+// <div ref={content} style={{ maxHeight: `${setHeight}` }}>
+//  <Element 1>
+//  <Button onClick={toggleAccordion attachComparison}>Compare</Button>
+//  <Element 2>
+//  <Button onClick={toggleAccordion}>Details</Button>
+// </div>
+

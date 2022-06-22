@@ -1,4 +1,4 @@
-table, th, td {
+table, tr{
     border: 1px solid black;
     border-collapse: collapse;
 }
@@ -12,4 +12,22 @@ tr {
 td {
     width: 50%;
     padding: 15px;
+}
+
+.compareEl{
+    width: fit-content;
+}
+.compareButton {
+     background-color: inherit;
+     border: none;
+}
+
+.paperClip {
+    background: url(https://edge.fscdn.org/assets/img/source-linker/sprite-e30eabb0def63de2133a134ed88c0aec.png) -9px -99px no-repeat;
+    content: '';
+    height: 19px;
+    width: 20px;
+    position: relative;
+    left: -25px;
+    top: 15px;
 }
