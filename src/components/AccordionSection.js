@@ -11,7 +11,7 @@ function AccordionSection({category, recordArray}) {
 
   const content = useRef(null);
 
-  const [treePersons, setTreePersons] = useState([])
+  const [treePersons, setTreePersons] = useState([]);
 
   function toggleAccordion() {
     setActiveState(setActive === "" ? "active" : "");
@@ -35,7 +35,7 @@ function AccordionSection({category, recordArray}) {
 
       //open the accordion section by default if there are records to link(doesn't always work)
       if(recordArray.length > 0) {
-        toggleAccordion()
+        toggleAccordion();
       }
   }, [recordArray.length]);
 
