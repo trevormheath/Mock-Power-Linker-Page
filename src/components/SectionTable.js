@@ -4,7 +4,6 @@ import DragDropEl from "./DragDropEl.js";
 
 function SectionTable({recordArray, treeArray, tableName}) {
 
-    
     //get the length of the bigger array so the boxes line up on both sides
     let maxArraySize = recordArray.length < treeArray.length ?  treeArray.length : recordArray.length;
 

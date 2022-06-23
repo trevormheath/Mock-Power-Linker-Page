@@ -1,5 +1,5 @@
-import {useDrop, useDrag} from 'react-dnd';
-import {useState} from 'react';
+import { useDrop, useDrag } from 'react-dnd';
+import { useState } from 'react';
 
 function DragDropEl({content, tableName, id}) {
   const [contentEl, setContentEl] = useState(content);

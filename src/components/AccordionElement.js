@@ -1,4 +1,4 @@
-import React, { useState, useRef} from "react";
+import React, { useState, useRef } from "react";
 import "../css/Accordion.css";
 
 function AccordionElement({person}) {
@@ -10,7 +10,9 @@ function AccordionElement({person}) {
   const content = useRef(null);
 
   function toggleAccordion() {
-    setActiveState(setActive === "" ? "active" : "");
+    setActiveState(
+      setActive === "" ? "active" : ""
+    );
     setHeightState(
       setActive === "active" ? "0px" : `${content.current.scrollHeight}px`
     );
@@ -23,7 +25,7 @@ function AccordionElement({person}) {
   let personFactHTML = [];
   let personFactList = person.facts;
   if(personFactList != null) {
-    for(let i = 0; i < personFactList.length; i++){
+    for(let i = 0; i < personFactList.length; i++) {
       let parseList = personFactList[i].type.split("/");
       let type = parseList[parseList.length-1];
 

@@ -14,7 +14,9 @@ function AccordionSection({category, recordArray}) {
   const [treePersons, setTreePersons] = useState([]);
 
   function toggleAccordion() {
-    setActiveState(setActive === "" ? "active" : "");
+    setActiveState(
+      setActive === "" ? "active" : ""
+    );
     setHeightState(
       setActive === "active" ? "0px" : `${content.current.scrollHeight + 18}px`
     );
@@ -22,6 +24,16 @@ function AccordionSection({category, recordArray}) {
       setActive === "active" ? "accordion__icon" : "accordion__icon rotate"
     );
   }
+  //to remove the warning the function needs to be wrapped in a callback but having the options open by default and giving useEffect dependency causes too many updates
+  // const toggleAccordion = useCallback(() => {
+  //   setActiveState(setActive === "" ? "active" : "");
+  //   setHeightState(
+  //     setActive === "active" ? "0px" : `${content.current.scrollHeight + 18}px`
+  //   );
+  //   setRotateState(
+  //     setActive === "active" ? "accordion__icon" : "accordion__icon rotate"
+  //   );
+  // }, [setActive])
 
   useEffect(() => {
       async function getTreePersons() {
@@ -37,7 +49,7 @@ function AccordionSection({category, recordArray}) {
       if(recordArray.length > 0) {
         toggleAccordion();
       }
-  }, [recordArray.length]);
+  }, [recordArray.length, category]);
 
   return (
     <div className="accordion__section">
